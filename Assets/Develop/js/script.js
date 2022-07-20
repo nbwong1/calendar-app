@@ -6,7 +6,6 @@ $("#currentDay").text(todayEl.format("dddd, MMMM Do"));
 //console log the date for today
 console.log(todayEl);
 
-var rootEl = $('#root');
-
-var nineAmEl = $('card');
-nineAmEl.attr('id', '#nineAmEl');
+$( ".saveBtn" ).button({
+    icon: "ui-icon-lock"
+  });
