@@ -6,7 +6,7 @@ This project is designed to help utilize bootstrap, jquery, and local storage in
 This process has been very fun and exciting. Learning how to create tools that can be utilized every day does not appear to be as daunting; however, putting it all together is very rewarding. 
 
 ## Screenshots
-(work-day-scheduler)[^work-day-scheduler.png]
+![work-day-scheduler](https://github.com/nbwong1/calendar-app/blob/main/work-day-scheduler.png)
 
 ## Credit
 I would like to make a shout out to my previous instructor Jesslyn and my current instructor Matt, for guiding all of us through these challenging lessons/modules and helping us learn about jquery and bootstrap. 
