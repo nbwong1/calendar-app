@@ -5,6 +5,7 @@ $("#currentDay").text(todayEl.format("dddd, MMMM Do"));
 
 //console log the date for today
 console.log(todayEl);
+var saveBtn = $(".saveBtn");
 
 $( ".saveBtn" ).button({
     icon: "ui-icon-lock"
